@@ -1,9 +1,260 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{  "products":{
+
+
+  "data": [
+    {
+      "_id": "636c13152c16c78f59f6554e",
+      "title": "FAUX LEATHER BIKER JACKET",
+      "price": 6590,
+      "description": "Jacket featuring a lapel collar with snap buttons. Long sleeves. Front zip pockets on the chest and hip. Inside pocket. Asymmetric metal zip-up fastening.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_1_1_1.jpg?ts=1658833472953",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_1_1.jpg?ts=1658833472037",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_2_1.jpg?ts=1658833473105",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_3_1.jpg?ts=1658833472885",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_4_1.jpg?ts=1658833487392",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_5_1.jpg?ts=1658833472190",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_6_1.jpg?ts=1658833472250",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_6_1_1.jpg?ts=1658819864668",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_6_2_1.jpg?ts=1658819866139",
+        "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_6_3_1.jpg?ts=1658819866723"
+      ],
+      "category": "Mens",
+      "size": "md",
+      "color": "black",
+      "__v": 0
+    },
+    {
+      "_id": "636c148adf57bf997e3c2e30",
+      "title": "SNOOPY PEANUTS™ BOMBER JACKET WITH PATCHES",
+      "price": 7990,
+      "description": "Varsity jacket with a quilted interior. Welt pockets at the hip and inside pocket detail. Contrast patches and Snoopy Peanuts™ embroidery on the front and back. Ribbed trims. Snap buttons down the front.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_1_1_1.jpg?ts=1665068847441",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_1_1.jpg?ts=1665068846659",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_2_1.jpg?ts=1665068846618",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_3_1.jpg?ts=1665068845222",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_4_1.jpg?ts=1665068851898",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_5_1.jpg?ts=1665068850554",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_6_1.jpg?ts=1665068847016",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_6_1_1.jpg?ts=1662109820492",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_6_2_1.jpg?ts=1662109819374",
+        "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_6_3_1.jpg?ts=1662109837536",
+        "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1074_0.jpg?ts=1626188302203"
+      ],
+      "category": "Mens",
+      "color": "Green",
+      "__v": 0
+    },
+    {
+      "_id": "636c153bdf57bf997e3c2e33",
+      "title": "EMBROIDERED BOMBER JACKET",
+      "price": 5990,
+      "description": "Varsity jacket made of faux suede fabric. Featuring a lapel collar, long sleeves and jetted hip pockets. Patch detail and contrast embroidery on the front and back. Ribbed trims. Snap-button front fastening.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_1_1_1.jpg?ts=1666949310135",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_1_1.jpg?ts=1666949306586",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_2_1.jpg?ts=1666949306809",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_3_1.jpg?ts=1666949306847",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_4_1.jpg?ts=1666949307469",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_5_1.jpg?ts=1666949307767",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_6_1_1.jpg?ts=1666949098691",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_6_2_1.jpg?ts=1666949100231",
+        "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_6_3_1.jpg?ts=1666949114082"
+      ],
+      "category": "Mens",
+      "color": "Black",
+      "__v": 0
+    },
+    {
+      "_id": "636c1583df57bf997e3c2e36",
+      "title": "BASIC SLIM FIT T-SHIRT",
+      "price": 990,
+      "description": "Stretch cotton T-shirt featuring a round neck and short sleeves.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_1_1_1.jpg?ts=1658217197933",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_1_1.jpg?ts=1658217197058",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_2_1.jpg?ts=1658217197984",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_3_1.jpg?ts=1658217197305",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_4_1.jpg?ts=1658217197367",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_5_1.jpg?ts=1658217197584",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_6_1.jpg?ts=1658217197785",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_7_1.jpg?ts=1658217198379",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_8_1.jpg?ts=1658217198426",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_6_1_1.jpg?ts=1658217196241",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_6_2_1.jpg?ts=1658217196042",
+        "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_6_3_1.jpg?ts=1658217198356",
+        "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-904_0.jpg?ts=1631608627030"
+      ],
+      "category": "Mens",
+      "color": "White",
+      "__v": 0
+    },
+    {
+      "_id": "636c1988df57bf997e3c2e39",
+      "title": "PADDINGTON © PADDINGTON&CO PRINTED HOODIE",
+      "price": 3990,
+      "description": "Hoodie with an adjustable hood. Long sleeves. Paddington © Paddington & Co Ltd character print. Ribbed trims.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_1_1_1.jpg?ts=1664983236473",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_1_1.jpg?ts=1664983208503",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_2_1.jpg?ts=1664983211979",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_3_1.jpg?ts=1664983216200",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_4_1.jpg?ts=1664983218981",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_5_1.jpg?ts=1664983261307",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_6_1_1.jpg?ts=1664866925981",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_6_2_1.jpg?ts=1664866925142",
+        "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_6_3_1.jpg?ts=1664866942735",
+        "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1395_0.jpg?ts=1626188377103"
+      ],
+      "category": "Mens",
+      "color": "DARK GREEN",
+      "__v": 0
+    },
+    {
+      "_id": "636c199edf57bf997e3c2e3c",
+      "title": "BOMBER JACKET WITH CONTRAST PATCHES",
+      "price": 7990,
+      "description": "Collared varsity jacket made of fabric which is slightly padded on the inside. Featuring long sleeves, contrast ribbed trims, jetted hip pockets and inside pocket detail. Contrast patches and embroidery on the front and back. Snap-button front.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_1_1_1.jpg?ts=1662562290277",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_1_1.jpg?ts=1662562291322",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_2_1.jpg?ts=1662562291352",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_3_1.jpg?ts=1662562290615",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_4_1.jpg?ts=1662562290349",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_5_1.jpg?ts=1662562290859",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_6_1_1.jpg?ts=1662109833365",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_6_2_1.jpg?ts=1662109820725",
+        "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_6_3_1.jpg?ts=1662109839183",
+        "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1073_0.jpg?ts=1626188302280"
+      ],
+      "category": "Mens",
+      "color": "DARK ORANGE",
+      "__v": 0
+    },
+    {
+      "_id": "636c19e0df57bf997e3c2e3f",
+      "title": "WOOL BLEND JACKET",
+      "price": 9990,
+      "description": "Boxy fit jacket made of a wool blend fabric. Lapel collar and long sleeves with buttoned cuffs. Patch pockets with flaps on the chest and inside pocket. Button-up front.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_1_1_1.jpg?ts=1667377754539",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_1_1.jpg?ts=1667377768337",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_2_1.jpg?ts=1667377758833",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_3_1.jpg?ts=1667377765446",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_4_1.jpg?ts=1667377774012",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_5_1.jpg?ts=1667377772079",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_6_1_1.jpg?ts=1667376959527",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_6_2_1.jpg?ts=1667376960044",
+        "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_6_3_1.jpg?ts=1667376968731"
+      ],
+      "category": "Mens",
+      "color": "SAND/BROWN",
+      "__v": 0
+    },
+    {
+      "_id": "636c1a06df57bf997e3c2e42",
+      "title": "LEATHER JACKET - LIMITED EDITION",
+      "price": 18990,
+      "description": "Boxy-fit collared leather jacket with long sleeves. Welt pockets at the hip. Inside pocket detail. Front zip fastening.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_1_1_1.jpg?ts=1666347342790",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_1_1.jpg?ts=1666347343770",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_2_1.jpg?ts=1666347343005",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_3_1.jpg?ts=1666347342085",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_4_1.jpg?ts=1666347375355",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_5_1.jpg?ts=1666347374535",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_6_1_1.jpg?ts=1664795530612",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_6_2_1.jpg?ts=1664795527226",
+        "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_6_3_1.jpg?ts=1664795547875"
+      ],
+      "category": "Mens",
+      "color": "GREEN",
+      "__v": 0
+    },
+    {
+      "_id": "636c1a16df57bf997e3c2e45",
+      "title": "CONTRAST POLO SWEATSHIRT",
+      "price": 2890,
+      "description": "Sweatshirt featuring a contrast polo collar and front button fastening. Long sleeves. Ribbed trims.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_1_1_1.jpg?ts=1662107070948",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_1_1.jpg?ts=1662107070548",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_2_1.jpg?ts=1662107069421",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_3_1.jpg?ts=1662107070426",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_4_1.jpg?ts=1662107070467",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_5_1.jpg?ts=1662107092711",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_6_1_1.jpg?ts=1662048023026",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_6_2_1.jpg?ts=1662048023372",
+        "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_6_3_1.jpg?ts=1662048052048",
+        "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1248_0.jpg?ts=1626188358226"
+      ],
+      "category": "Mens",
+      "color": "AUBERGINE",
+      "__v": 0
+    },
+    {
+      "_id": "636c1a2bdf57bf997e3c2e48",
+      "title": "SEQUINNED BOMBER JACKET",
+      "price": 7990,
+      "description": "Long sleeve jacket with a stretch collar. Welt pockets at the hip. Ribbed elasticated trims. Zip-up front.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_1_1_1.jpg?ts=1666706047304",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_1_1.jpg?ts=1666706047269",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_2_1.jpg?ts=1666706048475",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_3_1.jpg?ts=1666706047554",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_4_1.jpg?ts=1666706047573",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_5_1.jpg?ts=1666706048651",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_6_1_1.jpg?ts=1663663659076",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_6_2_1.jpg?ts=1663663658230",
+        "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_6_3_1.jpg?ts=1663663662578"
+      ],
+      "category": "Mens",
+      "color": "SILVER",
+      "__v": 0
+    },
+    {
+      "_id": "636c1a44df57bf997e3c2e4b",
+      "title": "HIBISCUS PRINT SWEATSHIRT",
+      "price": 2990,
+      "description": "Sweatshirt with a round neck and long sleeves. Featuring contrast all-over prints.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_1_1_1.jpg?ts=1657191340571",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_1_1.jpg?ts=1657191337862",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_2_1.jpg?ts=1657191341112",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_3_1.jpg?ts=1657191341390",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_4_1.jpg?ts=1657191339946",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_5_1.jpg?ts=1657191340667",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_6_1_1.jpg?ts=1657288380995",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_6_2_1.jpg?ts=1657288380770",
+        "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_6_3_1.jpg?ts=1657288396502",
+        "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1001_0.jpg?ts=1626188266479"
+      ],
+      "category": "Mens",
+      "color": "VARIOUS",
+      "__v": 0
+    },
+    {
+      "_id": "636c1a58df57bf997e3c2e4e",
+      "title": "FAUX SHEARLING JACQUARD JACKET",
+      "price": 5990,
+      "description": "High neck jacket with long sleeves. Welt pockets at the hip. Elastic trims. Zip-up front.",
+      "images": [
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_1_1_1.jpg?ts=1666794369551",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_1_1.jpg?ts=1666794410229",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_2_1.jpg?ts=1666794398756",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_3_1.jpg?ts=1666794368557",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_4_1.jpg?ts=1666794409550",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_5_1.jpg?ts=1666794399286",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_6_1_1.jpg?ts=1664866929097",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_6_2_1.jpg?ts=1664866928098",
+        "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_6_3_1.jpg?ts=1664866938677",
+        "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1011_0.jpg?ts=1626188316098"
+      ],
+      "category": "Mens",
+      "color": "NAVY BLUE",
+      "__v": 0
+    }
+  ]
+}
 }
