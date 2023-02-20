@@ -1,495 +1,184 @@
 {
-  "products": {
-    "data": [
-      {
-        "_id": "636c13152c16c78f59f6554e",
-        "title": "FAUX LEATHER BIKER JACKET",
-        "price": 6590,
-        "description": "Jacket featuring a lapel collar with snap buttons. Long sleeves. Front zip pockets on the chest and hip. Inside pocket. Asymmetric metal zip-up fastening.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_1_1_1.jpg?ts=1658833472953",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_1_1.jpg?ts=1658833472037",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_2_1.jpg?ts=1658833473105",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_3_1.jpg?ts=1658833472885",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_4_1.jpg?ts=1658833487392",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_5_1.jpg?ts=1658833472190",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_2_6_1.jpg?ts=1658833472250",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_6_1_1.jpg?ts=1658819864668",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_6_2_1.jpg?ts=1658819866139",
-          "https://static.zara.net/photos///2022/I/0/2/p/3427/300/800/2/w/1126/3427300800_6_3_1.jpg?ts=1658819866723"
-        ],
-        "category": "Mens",
-        "size": "md",
-        "color": "black",
-        "__v": 0
-      },
-      {
-        "_id": "636c148adf57bf997e3c2e30",
-        "title": "SNOOPY PEANUTS™ BOMBER JACKET WITH PATCHES",
-        "price": 7990,
-        "description": "Varsity jacket with a quilted interior. Welt pockets at the hip and inside pocket detail. Contrast patches and Snoopy Peanuts™ embroidery on the front and back. Ribbed trims. Snap buttons down the front.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_1_1_1.jpg?ts=1665068847441",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_1_1.jpg?ts=1665068846659",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_2_1.jpg?ts=1665068846618",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_3_1.jpg?ts=1665068845222",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_4_1.jpg?ts=1665068851898",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_5_1.jpg?ts=1665068850554",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_2_6_1.jpg?ts=1665068847016",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_6_1_1.jpg?ts=1662109820492",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_6_2_1.jpg?ts=1662109819374",
-          "https://static.zara.net/photos///2022/I/0/2/p/3046/444/500/2/w/1126/3046444500_6_3_1.jpg?ts=1662109837536",
-          "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1074_0.jpg?ts=1626188302203"
-        ],
-        "category": "Mens",
-        "color": "Green",
-        "__v": 0
-      },
-      {
-        "_id": "636c153bdf57bf997e3c2e33",
-        "title": "EMBROIDERED BOMBER JACKET",
-        "price": 5990,
-        "description": "Varsity jacket made of faux suede fabric. Featuring a lapel collar, long sleeves and jetted hip pockets. Patch detail and contrast embroidery on the front and back. Ribbed trims. Snap-button front fastening.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_1_1_1.jpg?ts=1666949310135",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_1_1.jpg?ts=1666949306586",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_2_1.jpg?ts=1666949306809",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_3_1.jpg?ts=1666949306847",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_4_1.jpg?ts=1666949307469",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_2_5_1.jpg?ts=1666949307767",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_6_1_1.jpg?ts=1666949098691",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_6_2_1.jpg?ts=1666949100231",
-          "https://static.zara.net/photos///2022/I/0/2/p/8281/410/800/2/w/1126/8281410800_6_3_1.jpg?ts=1666949114082"
-        ],
-        "category": "Mens",
-        "color": "Black",
-        "__v": 0
-      },
-      {
-        "_id": "636c1583df57bf997e3c2e36",
-        "title": "BASIC SLIM FIT T-SHIRT",
-        "price": 990,
-        "description": "Stretch cotton T-shirt featuring a round neck and short sleeves.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_1_1_1.jpg?ts=1658217197933",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_1_1.jpg?ts=1658217197058",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_2_1.jpg?ts=1658217197984",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_3_1.jpg?ts=1658217197305",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_4_1.jpg?ts=1658217197367",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_5_1.jpg?ts=1658217197584",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_6_1.jpg?ts=1658217197785",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_7_1.jpg?ts=1658217198379",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_2_8_1.jpg?ts=1658217198426",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_6_1_1.jpg?ts=1658217196241",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_6_2_1.jpg?ts=1658217196042",
-          "https://static.zara.net/photos///2022/I/0/2/p/5584/411/250/2/w/1126/5584411250_6_3_1.jpg?ts=1658217198356",
-          "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-904_0.jpg?ts=1631608627030"
-        ],
-        "category": "Mens",
-        "color": "White",
-        "__v": 0
-      },
-      {
-        "_id": "636c1988df57bf997e3c2e39",
-        "title": "PADDINGTON © PADDINGTON&CO PRINTED HOODIE",
-        "price": 3990,
-        "description": "Hoodie with an adjustable hood. Long sleeves. Paddington © Paddington & Co Ltd character print. Ribbed trims.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_1_1_1.jpg?ts=1664983236473",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_1_1.jpg?ts=1664983208503",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_2_1.jpg?ts=1664983211979",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_3_1.jpg?ts=1664983216200",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_4_1.jpg?ts=1664983218981",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_2_5_1.jpg?ts=1664983261307",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_6_1_1.jpg?ts=1664866925981",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_6_2_1.jpg?ts=1664866925142",
-          "https://static.zara.net/photos///2022/I/0/2/p/4644/301/529/2/w/1126/4644301529_6_3_1.jpg?ts=1664866942735",
-          "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1395_0.jpg?ts=1626188377103"
-        ],
-        "category": "Mens",
-        "color": "DARK GREEN",
-        "__v": 0
-      },
-      {
-        "_id": "636c199edf57bf997e3c2e3c",
-        "title": "BOMBER JACKET WITH CONTRAST PATCHES",
-        "price": 7990,
-        "description": "Collared varsity jacket made of fabric which is slightly padded on the inside. Featuring long sleeves, contrast ribbed trims, jetted hip pockets and inside pocket detail. Contrast patches and embroidery on the front and back. Snap-button front.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_1_1_1.jpg?ts=1662562290277",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_1_1.jpg?ts=1662562291322",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_2_1.jpg?ts=1662562291352",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_3_1.jpg?ts=1662562290615",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_4_1.jpg?ts=1662562290349",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_2_5_1.jpg?ts=1662562290859",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_6_1_1.jpg?ts=1662109833365",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_6_2_1.jpg?ts=1662109820725",
-          "https://static.zara.net/photos///2022/I/0/2/p/6318/406/642/2/w/1126/6318406642_6_3_1.jpg?ts=1662109839183",
-          "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1073_0.jpg?ts=1626188302280"
-        ],
-        "category": "Mens",
-        "color": "DARK ORANGE",
-        "__v": 0
-      },
-      {
-        "_id": "636c19e0df57bf997e3c2e3f",
-        "title": "WOOL BLEND JACKET",
-        "price": 9990,
-        "description": "Boxy fit jacket made of a wool blend fabric. Lapel collar and long sleeves with buttoned cuffs. Patch pockets with flaps on the chest and inside pocket. Button-up front.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_1_1_1.jpg?ts=1667377754539",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_1_1.jpg?ts=1667377768337",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_2_1.jpg?ts=1667377758833",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_3_1.jpg?ts=1667377765446",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_4_1.jpg?ts=1667377774012",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_2_5_1.jpg?ts=1667377772079",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_6_1_1.jpg?ts=1667376959527",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_6_2_1.jpg?ts=1667376960044",
-          "https://static.zara.net/photos///2022/I/0/2/p/6437/354/718/2/w/1126/6437354718_6_3_1.jpg?ts=1667376968731"
-        ],
-        "category": "Mens",
-        "color": "SAND/BROWN",
-        "__v": 0
-      },
-      {
-        "_id": "636c1a06df57bf997e3c2e42",
-        "title": "LEATHER JACKET - LIMITED EDITION",
-        "price": 18990,
-        "description": "Boxy-fit collared leather jacket with long sleeves. Welt pockets at the hip. Inside pocket detail. Front zip fastening.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_1_1_1.jpg?ts=1666347342790",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_1_1.jpg?ts=1666347343770",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_2_1.jpg?ts=1666347343005",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_3_1.jpg?ts=1666347342085",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_4_1.jpg?ts=1666347375355",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_2_5_1.jpg?ts=1666347374535",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_6_1_1.jpg?ts=1664795530612",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_6_2_1.jpg?ts=1664795527226",
-          "https://static.zara.net/photos///2022/I/0/2/p/2521/400/500/2/w/1126/2521400500_6_3_1.jpg?ts=1664795547875"
-        ],
-        "category": "Mens",
-        "color": "GREEN",
-        "__v": 0
-      },
-      {
-        "_id": "636c1a16df57bf997e3c2e45",
-        "title": "CONTRAST POLO SWEATSHIRT",
-        "price": 2890,
-        "description": "Sweatshirt featuring a contrast polo collar and front button fastening. Long sleeves. Ribbed trims.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_1_1_1.jpg?ts=1662107070948",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_1_1.jpg?ts=1662107070548",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_2_1.jpg?ts=1662107069421",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_3_1.jpg?ts=1662107070426",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_4_1.jpg?ts=1662107070467",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_2_5_1.jpg?ts=1662107092711",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_6_1_1.jpg?ts=1662048023026",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_6_2_1.jpg?ts=1662048023372",
-          "https://static.zara.net/photos///2022/I/0/2/p/0526/350/610/2/w/1126/0526350610_6_3_1.jpg?ts=1662048052048",
-          "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1248_0.jpg?ts=1626188358226"
-        ],
-        "category": "Mens",
-        "color": "AUBERGINE",
-        "__v": 0
-      },
-      {
-        "_id": "636c1a2bdf57bf997e3c2e48",
-        "title": "SEQUINNED BOMBER JACKET",
-        "price": 7990,
-        "description": "Long sleeve jacket with a stretch collar. Welt pockets at the hip. Ribbed elasticated trims. Zip-up front.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_1_1_1.jpg?ts=1666706047304",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_1_1.jpg?ts=1666706047269",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_2_1.jpg?ts=1666706048475",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_3_1.jpg?ts=1666706047554",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_4_1.jpg?ts=1666706047573",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_2_5_1.jpg?ts=1666706048651",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_6_1_1.jpg?ts=1663663659076",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_6_2_1.jpg?ts=1663663658230",
-          "https://static.zara.net/photos///2022/I/0/2/p/9621/634/808/2/w/1126/9621634808_6_3_1.jpg?ts=1663663662578"
-        ],
-        "category": "Mens",
-        "color": "SILVER",
-        "__v": 0
-      },
-      {
-        "_id": "636c1a44df57bf997e3c2e4b",
-        "title": "HIBISCUS PRINT SWEATSHIRT",
-        "price": 2990,
-        "description": "Sweatshirt with a round neck and long sleeves. Featuring contrast all-over prints.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_1_1_1.jpg?ts=1657191340571",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_1_1.jpg?ts=1657191337862",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_2_1.jpg?ts=1657191341112",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_3_1.jpg?ts=1657191341390",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_4_1.jpg?ts=1657191339946",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_2_5_1.jpg?ts=1657191340667",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_6_1_1.jpg?ts=1657288380995",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_6_2_1.jpg?ts=1657288380770",
-          "https://static.zara.net/photos///2022/I/0/2/p/6224/305/015/2/w/1126/6224305015_6_3_1.jpg?ts=1657288396502",
-          "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1001_0.jpg?ts=1626188266479"
-        ],
-        "category": "Mens",
-        "color": "VARIOUS",
-        "__v": 0
-      },
-      {
-        "_id": "636c1a58df57bf997e3c2e4e",
-        "title": "FAUX SHEARLING JACQUARD JACKET",
-        "price": 5990,
-        "description": "High neck jacket with long sleeves. Welt pockets at the hip. Elastic trims. Zip-up front.",
-        "images": [
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_1_1_1.jpg?ts=1666794369551",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_1_1.jpg?ts=1666794410229",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_2_1.jpg?ts=1666794398756",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_3_1.jpg?ts=1666794368557",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_4_1.jpg?ts=1666794409550",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_2_5_1.jpg?ts=1666794399286",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_6_1_1.jpg?ts=1664866929097",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_6_2_1.jpg?ts=1664866928098",
-          "https://static.zara.net/photos///2022/I/0/2/p/4387/325/401/2/w/1126/4387325401_6_3_1.jpg?ts=1664866938677",
-          "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1011_0.jpg?ts=1626188316098"
-        ],
-        "category": "Mens",
-        "color": "NAVY BLUE",
-        "__v": 0
-      },
-
-          {
-            "_id": "636c1a96df57bf997e3c2e51",
-            "title": "FLOWING SATIN SHIRT",
-            "price": 1990,
-            "description": "Shirt with a johnny collar, long sleeves and a button-up front.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_1_1_1.jpg?ts=1666611511396",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_2_1_1.jpg?ts=1666611543123",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_2_2_1.jpg?ts=1666611509029",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_2_3_1.jpg?ts=1666611508981",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_2_4_1.jpg?ts=1666611519880",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_2_5_1.jpg?ts=1666611509596",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_2_6_1.jpg?ts=1666611542314",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_6_1_1.jpg?ts=1666770404451",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_6_2_1.jpg?ts=1666770404351",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_6_3_1.jpg?ts=1666770404956",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/256/527/2/w/1126/8741256527_6_4_1.jpg?ts=1666770404854"
-            ],
-            "category": "Womens",
-            "color": "MID-GREEN",
-            "__v": 0
-          },
-          {
-            "_id": "636c1ab1df57bf997e3c2e54",
-            "title": "SATIN DRESS WITH EMBROIDERED SLEEVES",
-            "price": 4990,
-            "description": "Short collared dress featuring a V-neckline, long sleeves with contrast embroidery, front pleats and double-breasted button fastening.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_1_1_1.jpg?ts=1665072315806",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_2_1_1.jpg?ts=1665072314352",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_2_2_1.jpg?ts=1665072311628",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_2_3_1.jpg?ts=1665072311992",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_2_4_1.jpg?ts=1665072315669",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_2_5_1.jpg?ts=1665072313026",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_6_1_1.jpg?ts=1665059097114",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_6_2_1.jpg?ts=1665059096353",
-              "https://static.zara.net/photos///2022/I/0/1/p/8741/271/800/2/w/1126/8741271800_6_3_1.jpg?ts=1665059101435",
-              "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1067_0.jpg?ts=1626188305145"
-            ],
-            "category": "Womens",
-            "color": "BLACK",
-            "__v": 0
-          },
-          {
-            "_id": "636c1ac2df57bf997e3c2e57",
-            "title": "CULOTTE TROUSERS",
-            "price": 2990,
-            "description": "High-waist culottes with visible seams and a wide-leg design. Invisible side zip fastening.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/2242/878/800/12/w/1126/2242878800_1_1_1.jpg?ts=1662465857876",
-              "https://static.zara.net/photos///2022/I/0/1/p/2242/878/800/12/w/1126/2242878800_2_1_1.jpg?ts=1662465858173",
-              "https://static.zara.net/photos///2022/I/0/1/p/2242/878/800/12/w/1126/2242878800_2_2_1.jpg?ts=1662465857335",
-              "https://static.zara.net/photos///2022/V/0/1/p/2242/878/800/2/w/1126/2242878800_6_1_1.jpg?ts=1638519640416",
-              "https://static.zara.net/photos///2022/V/0/1/p/2242/878/800/2/w/1126/2242878800_6_2_1.jpg?ts=1638519640041",
-              "https://static.zara.net/photos///2022/V/0/1/p/2242/878/800/2/w/1126/2242878800_6_3_1.jpg?ts=1638519637468"
-            ],
-            "category": "Womens",
-            "color": "BLACK",
-            "__v": 0
-          },
-          {
-            "_id": "636c1ad1df57bf997e3c2e5a",
-            "title": "SATIN SHIRT WITH RHINESTONES",
-            "price": 5990,
-            "description": "Satin collared shirt made of viscose. Featuring long sleeves, matching rhinestone appliqués and a button-up front.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_1_1_1.jpg?ts=1663328074145",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_2_1_1.jpg?ts=1663328076080",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_2_2_1.jpg?ts=1663328073916",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_2_3_1.jpg?ts=1663328074760",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_2_4_1.jpg?ts=1663328072957",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_6_1_1.jpg?ts=1663323257591",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_6_2_1.jpg?ts=1663323257880",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_6_3_1.jpg?ts=1663323261658",
-              "https://static.zara.net/photos///2022/I/0/1/p/4786/275/430/2/w/1126/4786275430_6_4_1.jpg?ts=1663323255592"
-            ],
-            "category": "Womens",
-            "color": "INK BLUE",
-            "__v": 0
-          },
-          {
-            "_id": "636c1ae3df57bf997e3c2e5d",
-            "title": "EMBELLISHED VINYL HIGH-HEEL SHOES",
-            "price": 5990,
-            "description": "High-heel vinyl slingback shoes. Embellished detail with rhinestones on the front.\n\nAIRFIT®. Flexible technical latex foam insole, designed to offer greater comfort.\n\nHeel height: 8.5 cm. / 3.3″",
-            "images": [
-              "https://static.zara.net/photos///2022/I/1/1/p/2232/910/111/2/w/1126/2232910111_1_1_1.jpg?ts=1656326609979",
-              "https://static.zara.net/photos///2022/I/1/1/p/2232/910/111/2/w/1126/2232910111_2_1_1.jpg?ts=1656326609551",
-              "https://static.zara.net/photos///2022/I/1/1/p/2232/910/111/2/w/1126/2232910111_2_2_1.jpg?ts=1656326608487",
-              "https://static.zara.net/photos///2022/I/1/1/p/2232/910/111/2/w/1126/2232910111_6_1_1.jpg?ts=1666792184296",
-              "https://static.zara.net/photos///2022/I/1/1/p/2232/910/111/2/w/1126/2232910111_6_2_1.jpg?ts=1666792184296",
-              "https://static.zara.net/photos///2022/I/1/1/p/2232/910/111/2/w/1126/2232910111_6_3_1.jpg?ts=1666792184450",
-              "https://static.zara.net/photos///2022/I/1/1/p/2232/910/111/2/w/1126/2232910111_6_4_1.jpg?ts=1666792184508"
-            ],
-            "category": "Womens",
-            "color": "NATURAL",
-            "__v": 0
-          },
-          {
-            "_id": "636c1af7df57bf997e3c2e60",
-            "title": "LONG FLOWING TROUSERS",
-            "price": 2990,
-            "description": "Loose-fitting high-waist trousers with a straight-leg design. Invisible side zip fastening.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/17/w/1126/2731271800_1_1_1.jpg?ts=1662462986105",
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/17/w/1126/2731271800_2_1_1.jpg?ts=1662462987050",
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/17/w/1126/2731271800_2_2_1.jpg?ts=1662462986897",
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/17/w/1126/2731271800_2_3_1.jpg?ts=1662462984062",
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/17/w/1126/2731271800_2_4_1.jpg?ts=1662462987010",
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/2/w/1126/2731271800_6_1_1.jpg?ts=1661163058236",
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/2/w/1126/2731271800_6_2_1.jpg?ts=1659970906077",
-              "https://static.zara.net/photos///2022/I/0/1/p/2731/271/800/2/w/1126/2731271800_6_3_1.jpg?ts=1659970902487"
-            ],
-            "category": "Womens",
-            "color": "BLACK",
-            "__v": 0
-          },
-          {
-            "_id": "636c1b0fdf57bf997e3c2e63",
-            "title": "MIDI DRESS",
-            "price": 2990,
-            "description": "Midi dress with a straight-cut neckline and exposed shoulders. Featuring a back slit at the hem and invisible zip fastening.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_1_1_1.jpg?ts=1660218548500",
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_2_2_1.jpg?ts=1660218545774",
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_2_3_1.jpg?ts=1660218542769",
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_2_4_1.jpg?ts=1660218541633",
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_2_5_1.jpg?ts=1660218541357",
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_6_1_1.jpg?ts=1660225801240",
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_6_2_1.jpg?ts=1660225801601",
-              "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/1126/3067206423_6_3_1.jpg?ts=1660225818620",
-              "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1011_0.jpg?ts=1626188316098"
-            ],
-            "category": "Womens",
-            "color": "PASTEL BLUE",
-            "__v": 0
-          },
-          {
-            "_id": "636c1b2adf57bf997e3c2e66",
-            "title": "CULOTTE TROUSERS",
-            "price": 2990,
-            "description": "High-waist culottes with visible seams and a wide-leg design. Invisible side zip fastening.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_1_1_1.jpg?ts=1662459891444",
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_2_1_1.jpg?ts=1662459891016",
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_2_2_1.jpg?ts=1662459891687",
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_2_3_1.jpg?ts=1662459891736",
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_2_4_1.jpg?ts=1662459891937",
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_6_1_1.jpg?ts=1661852001208",
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_6_2_1.jpg?ts=1661852001742",
-              "https://static.zara.net/photos///2022/I/0/1/p/4043/287/940/2/w/1126/4043287940_6_3_1.jpg?ts=1661852007394"
-            ],
-            "category": "Womens",
-            "color": "DARK FUCHSIA",
-            "__v": 0
-          },
-          {
-            "_id": "636c1b45df57bf997e3c2e69",
-            "title": "Z1975 HIGH-RISE STRAIGHT JEANS",
-            "price": 2890,
-            "description": "High-waist jeans with five pockets. Faded effect. Straight leg and seamless hems. Front zip fly and metal button fastening.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_1_1_1.jpg?ts=1664360688462",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_2_1_1.jpg?ts=1664360688965",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_2_2_1.jpg?ts=1664360687672",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_2_3_1.jpg?ts=1664360687447",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_2_4_1.jpg?ts=1664360688042",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_2_5_1.jpg?ts=1664360692317",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_6_1_1.jpg?ts=1664291700765",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_6_2_1.jpg?ts=1664291700919",
-              "https://static.zara.net/photos///2022/I/0/1/p/6164/172/407/2/w/1126/6164172407_6_3_1.jpg?ts=1664291707218",
-              "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1298_0.jpg?ts=1626188342520"
-            ],
-            "category": "Womens",
-            "color": "BLUE",
-            "__v": 0
-          },
-          {
-            "_id": "636c1b5bdf57bf997e3c2e6c",
-            "title": "MOCK NECK DRESS WITH SIDE BUTTONS",
-            "price": 5590,
-            "description": "Mock neck dress with wide sleeves falling below the elbow. Featuring false gold-toned buttons on the sides and a belt in the same fabric. Ruffled hem and back fastening with invisible zip and button.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_1_1_1.jpg?ts=1665072311726",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_2_1_1.jpg?ts=1665072311726",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_2_2_1.jpg?ts=1665072313224",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_2_3_1.jpg?ts=1665072315426",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_2_4_1.jpg?ts=1665072311962",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_2_5_1.jpg?ts=1665072311446",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_6_1_1.jpg?ts=1665040789130",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_6_2_1.jpg?ts=1665040788903",
-              "https://static.zara.net/photos///2022/I/0/1/p/2298/203/611/2/w/1126/2298203611_6_3_1.jpg?ts=1665040789826"
-            ],
-            "category": "Womens",
-            "color": "PURPLE",
-            "__v": 0
-          },
-          {
-            "_id": "636c1b79df57bf997e3c2e6f",
-            "title": "BASIC HIGH NECK KNIT SWEATER",
-            "price": 1890,
-            "description": "Sweater featuring a high neck, long sleeves with decorative metal buttons and ribbed trims.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/8851/123/657/2/w/1126/8851123657_1_1_1.jpg?ts=1659956217074",
-              "https://static.zara.net/photos///2022/I/0/1/p/8851/123/657/2/w/1126/8851123657_2_1_1.jpg?ts=1659956217315",
-              "https://static.zara.net/photos///2022/I/0/1/p/8851/123/657/2/w/1126/8851123657_6_1_1.jpg?ts=1660657213216",
-              "https://static.zara.net/photos///2022/I/0/1/p/8851/123/657/2/w/1126/8851123657_6_2_1.jpg?ts=1660657213392",
-              "https://static.zara.net/photos///2022/I/0/1/p/8851/123/657/2/w/1126/8851123657_6_3_1.jpg?ts=1660657214595",
-              "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1431_0.jpg?ts=1631607845110"
-            ],
-            "category": "Womens",
-            "color": "LIGHT FUCHSIA",
-            "__v": 0
-          },
-          {
-            "_id": "636c1ba5df57bf997e3c2e72",
-            "title": "SHAWL LAPEL BLAZER",
-            "price": 6990,
-            "description": "Blazer with shawl collar and long sleeves. Front flap pockets and a welt chest pocket. Matching lining. Button fastening at the front.",
-            "images": [
-              "https://static.zara.net/photos///2022/I/0/1/p/7995/187/500/12/w/1126/7995187500_1_1_1.jpg?ts=1663168007367",
-              "https://static.zara.net/photos///2022/I/0/1/p/7995/187/500/12/w/1126/7995187500_2_1_1.jpg?ts=1663168008935",
-              "https://static.zara.net/photos///2022/I/0/1/p/7995/187/500/12/w/1126/7995187500_2_2_1.jpg?ts=1663168004959",
-              "https://static.zara.net/photos///2022/I/0/1/p/7995/187/500/2/w/1126/7995187500_6_1_1.jpg?ts=1660056832700",
-              "https://static.zara.net/photos///2022/I/0/1/p/7995/187/500/2/w/1126/7995187500_6_2_1.jpg?ts=1660056836499",
-              "https://static.zara.net/photos///2022/I/0/1/p/7995/187/500/2/w/1126/7995187500_6_3_1.jpg?ts=1660056838971",
-              "https://static.zara.net/photos///2022/I/0/1/p/7995/187/500/2/w/1126/7995187500_6_4_1.jpg?ts=1660056841284",
-              "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/1126/sustainability-extrainfo-label-1209_0.jpg?ts=1626188364826"
-            ],
-            "category": "Womens",
-            "color": "GREEN",
-            "__v": 0
-          }
-        
-      
-    ]
-  }
+  "data": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": { "rate": 4.1, "count": 259 }
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": { "rate": 4.7, "count": 500 }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": { "rate": 2.1, "count": 430 }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": { "rate": 4.6, "count": 400 }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": { "rate": 3.9, "count": 70 }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": { "rate": 3, "count": 400 }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": { "rate": 1.9, "count": 100 }
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": { "rate": 3.3, "count": 203 }
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": { "rate": 2.9, "count": 470 }
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": { "rate": 4.8, "count": 319 }
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": { "rate": 4.8, "count": 400 }
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": { "rate": 2.9, "count": 250 }
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": { "rate": 2.2, "count": 140 }
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": { "rate": 2.6, "count": 235 }
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": { "rate": 2.9, "count": 340 }
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": { "rate": 3.8, "count": 679 }
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": { "rate": 4.7, "count": 130 }
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": { "rate": 4.5, "count": 146 }
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": { "rate": 3.6, "count": 145 }
+    }
+  ]
 }
